@@ -1,0 +1,8 @@
+{
+  "name": "Remix: New-Tech school of world",
+  "description": "A comprehensive, modern Learning Management System (LMS) with Student, Teacher, and Admin portals, live classes, exams, certificates, Stripe payments, and server-side Gemini AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
